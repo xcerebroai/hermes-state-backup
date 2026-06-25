@@ -1,0 +1,19 @@
+# Secrets — never back these up
+.env
+*.env
+.env.*
+*token*
+*secret*
+*.key
+*credentials*
+auth.json
+config.yaml
+
+# Junk
+__pycache__/
+*.log
+logs/
+
+# Cloned project repos (have their own remotes) — anchored to repo root ONLY,
+# so it does NOT match Xcerebro-Vault/Projects/
+/projects/

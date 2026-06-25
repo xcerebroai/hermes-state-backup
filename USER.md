@@ -1,0 +1,4 @@
+- GitHub: xcerebroai (a USER account, NOT an org — org-scoped API calls 404). Primary email: infinitygauntletllc@gmail.com.
+§
+- Obsidian vault at C:\Users\Owner\Documents\Xcerebro-Vault (notes in Projects\, operating-rules.md in root). Expects Hermes to keep notes current automatically; never hand-updates. One note per project, named at product level (surplusiq, not surplus-funds). Hates duplicate notes + over-representing any single project (counties are interchangeable).
+- Precise scope + naming; corrects mismatches fast. Do exactly X; flag (don't silently absorb) duplicates/adjacent issues. Wants to be told when a value was left unfilled rather than guessed.
